@@ -18,3 +18,6 @@ comments: true
 [Szombathy, Josef (1912) Altertumsfunde aus Höhlen bei St. Kanzian im österreichischen KüstenlandeSt Kanzian (Škocjan)](http://zoran-cuckovic.from.hr/materials/Szombathy-Skocjan.pdf) [Sorry for the bad scan (the book is old and stiff)]
 
 [Puschi, Alberto (1905) La necropoli preromana di Nesazio](http://zoran-cuckovic.from.hr/materials/Puschi-1905-Nesazio.pdf) Atti e Memorie della Società istriana di Archeologia e Storia Patria, vol. 22, 1905
+
+
+<< BACK TO [zoran-cuckovic.from.hr](zoran-cuckovic.from.hr ) 
