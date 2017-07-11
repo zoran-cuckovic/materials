@@ -20,4 +20,4 @@ comments: true
 [Puschi, Alberto (1905) La necropoli preromana di Nesazio](http://zoran-cuckovic.from.hr/materials/Puschi-1905-Nesazio.pdf) Atti e Memorie della Società istriana di Archeologia e Storia Patria, vol. 22, 1905
 
 
-<< BACK TO [zoran-cuckovic.from.hr](zoran-cuckovic.from.hr ) 
+<< BACK TO [zoran-cuckovic.from.hr](http://zoran-cuckovic.from.hr ) 
