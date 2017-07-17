@@ -13,6 +13,8 @@ comments: true
 
 [Schaeffer, F. A. (1926) Les Tertres funéraires préhistoriques dans la Forêt de Haguenau -- I. Les Tumulus de I'Age du Bronze](http://zoran-cuckovic.from.hr/materials/Schaeffer-Hagenau-I.pdf)
 
+[Simpson (1971): Beaker houses and settlements in Britain / McInness (1971): Settlements in later Neolithic](https://github.com/zoran-cuckovic/materials/blob/gh-pages/Simpson%20McInnes%201971%20Houses%20Neo-EBA%20Britain.pdf)
+
 [Stead, Ian (1998) Salisbury Hoard](http://zoran-cuckovic.from.hr/materials/Stead-1998-Salisbury-Hoard.pdf)
 
 [Szombathy, Josef (1912) Altertumsfunde aus Höhlen bei St. Kanzian im österreichischen KüstenlandeSt Kanzian (Škocjan)](http://zoran-cuckovic.from.hr/materials/Szombathy-Skocjan.pdf) [Sorry for the bad scan (the book is old and stiff)]
