@@ -4,6 +4,11 @@ title: Stuff...
 author: zoran
 comments: true
 ---
+<head>
+
+<link rel=”canonical” href=”https://zoran.hcommons.org/materials” />
+
+</head>
 
 ## Scanned books and articles
 
